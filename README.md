@@ -1,16 +1,56 @@
-## Hi there 👋
+# 🛠️ Skills & Tech Stack
 
-<!--
-**o-mori923/o-mori923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 言語
 
-Here are some ideas to get you started:
+| 言語 |
+|------|
+| Python |
+| JavaScript |
+| TypeScript |
+| PHP |
+| C |
+| C++ |
+| Java |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## フレームワーク・ライブラリ
+
+| フレームワーク・ライブラリ |
+|---------------------------|
+| React |
+| Next.js |
+| Laravel |
+| FastAPI |
+| Streamlit |
+| PySide6 |
+| SQLAlchemy / Alembic |
+| Google Apps Script |
+
+## データベース
+
+| データベース |
+|-------------|
+| PostgreSQL |
+| MySQL |
+
+## インフラ・クラウド
+
+| インフラ・クラウド |
+|-------------------|
+| Docker / Docker Compose |
+| AWS |
+
+## AI/ML
+
+| AI/ML |
+|-------|
+| PyTorch |
+| TensorFlow |
+| SAM3 (Segment Anything Model) |
+| Phi-3.5 Vision |
+
+## 資格・認定
+
+| 資格・認定 |
+|-----------|
+| E資格（日本ディープラーニング協会） |
+| AWS Certified Cloud Practitioner |
